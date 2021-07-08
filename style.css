@@ -375,6 +375,33 @@ span{
   }
 }
 
+@media screen and (max-width: 923) {
+  .arrow-box {
+    width: 75px;
+    height: 57px;
+  
+    position: absolute;
+    top: 60%;
+  }
+  
+  .arrow {
+    font-size: 30px;
+  }
+
+  .main-title{
+    font-size: 45px;
+    margin-left: 50px;
+    width: 80vw;
+    line-height: 55px;
+  }
+
+  .main-para{
+    /* margin-top: 280px; */
+    font-size: 23px;
+    line-height: 40px;
+  }
+}
+
 @media screen and (max-width: 727px){
 
   .main-title{
