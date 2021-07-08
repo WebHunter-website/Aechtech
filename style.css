@@ -380,7 +380,6 @@ span{
     width: 75px;
     height: 57px;
   
-    position: absolute;
     top: 60%;
   }
   
@@ -389,7 +388,8 @@ span{
   }
 
   .main-title{
-    font-size: 45px;
+    /* font-size: 45px; */
+    font-size: 10px;
     margin-left: 50px;
     width: 80vw;
     line-height: 55px;
