@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Aechtech/static/css/main.a9a22178.chunk.css",
+    "main.css": "/Aechtech/static/css/main.7dcb1054.chunk.css",
     "main.js": "/Aechtech/static/js/main.d8a7b1e4.chunk.js",
     "main.js.map": "/Aechtech/static/js/main.d8a7b1e4.chunk.js.map",
     "runtime-main.js": "/Aechtech/static/js/runtime-main.9542a667.js",
@@ -10,13 +10,13 @@
     "static/js/3.6412b780.chunk.js": "/Aechtech/static/js/3.6412b780.chunk.js",
     "static/js/3.6412b780.chunk.js.map": "/Aechtech/static/js/3.6412b780.chunk.js.map",
     "index.html": "/Aechtech/index.html",
-    "static/css/main.a9a22178.chunk.css.map": "/Aechtech/static/css/main.a9a22178.chunk.css.map",
+    "static/css/main.7dcb1054.chunk.css.map": "/Aechtech/static/css/main.7dcb1054.chunk.css.map",
     "static/js/2.e8b0db2f.chunk.js.LICENSE.txt": "/Aechtech/static/js/2.e8b0db2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9542a667.js",
     "static/js/2.e8b0db2f.chunk.js",
-    "static/css/main.a9a22178.chunk.css",
+    "static/css/main.7dcb1054.chunk.css",
     "static/js/main.d8a7b1e4.chunk.js"
   ]
 }
